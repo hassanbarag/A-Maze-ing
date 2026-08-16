@@ -1,0 +1,13 @@
+[build-system]
+requires = ["poetry-core"]
+build-backend = "poetry.core.masonry.api"
+
+[project]
+name = "mazegen"
+version = "1.0.0"
+description = "maze_generator with DFS + BFS"
+authors = [{name = "Hassan, Luciano"}]
+requires-python = ">=3.10"
+
+[tool.poetry]
+packages = [{include = "mazegen"}]
