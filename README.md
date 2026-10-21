@@ -148,6 +148,3 @@ ICON=GREY
 
 - **hassamoh** — Maze-generation logic, algorithms, optimization, and testing.
 - **lpoyanco** — Configuration, visualization, animation, debugging, and testing.
----
-
-*Built to explore graph algorithms, procedural generation, pathfinding, and modular software design.*
